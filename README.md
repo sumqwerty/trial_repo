@@ -1,2 +1,2 @@
 # trial_repo
-testing git 
+A test repo just to learn git on and try commands with.
